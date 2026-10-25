@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+kaggle/notebook/
+kaggle/dataset/
+run.log
+run_log.txt
+run_err.txt
